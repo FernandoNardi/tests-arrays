@@ -1,0 +1,19 @@
+{
+  "name": "arrays",
+  "version": "1.0.0",
+  "description": "Tests with arrays",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "arrays",
+    "tests",
+    "regex",
+    "find",
+    "filter",
+    "includes"
+  ],
+  "author": "Nardi",
+  "license": "ISC"
+}

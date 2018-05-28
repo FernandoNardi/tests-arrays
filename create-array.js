@@ -1,0 +1,1 @@
+module.exports = (create) => (length) => Array.from({ length }, create);

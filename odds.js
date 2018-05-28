@@ -1,0 +1,1 @@
+module.exports = (v, i) => (i === 0) ? i + 1 : i + (i + 1);
